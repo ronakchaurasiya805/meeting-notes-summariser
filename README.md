@@ -79,6 +79,12 @@ flowchart LR
 Every removal is reported in a `FLAGS` section so nothing is silently changed.
 
 
+## Demo
+
+![Streamlit demo](demo.png)
+
+Run it locally with `streamlit run app.py`.
+
 
 \## Example
 

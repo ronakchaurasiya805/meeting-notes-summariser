@@ -2,3 +2,4 @@ langchain-google-genai
 pydantic
 python-dotenv
 langchain-core
+streamlit
