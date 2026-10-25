@@ -1,0 +1,7 @@
+Priya: Okay team, let's start. First, the client demo is moving to next Thursday.
+Rahul: I'll send the updated proposal to the client by Friday.
+Priya: Great. Also, someone should update the website with the new pricing.
+Amit: The server costs are higher than expected, we should look at that.
+Priya: Yes. Sneha, can you check the cloud bill and report back on Monday?
+Sneha: Sure, I'll do that.
+Priya: Alright, we decided to keep the current pricing for now. Thanks everyone.
